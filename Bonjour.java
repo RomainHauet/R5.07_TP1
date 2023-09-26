@@ -3,7 +3,7 @@
 public class Bonjour {
 
     public static void main(String[] args) {
-        System.out.println("Bonjour, je m'appelle William Prévost");
+        System.out.println("Bonjour, je m'appelle Romain Hauet");
     }
 
 }
